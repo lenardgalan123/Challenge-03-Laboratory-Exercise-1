@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Challenge-03-Laboratory-Exercise-1</string>
+    <string name="em">Enter Message</string>
+    <string name="btn">CLEAR/DELETE</string>
+</resources>
